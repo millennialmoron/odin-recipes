@@ -1,0 +1,53 @@
+body {
+  background-color: #efead8;
+  color: #6d8b74;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: #5f7161;
+  font-family: "Sacramento", cursive;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+a:link {
+  color: #d0c9c0;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+a:visited {
+  color: #d0c9c0;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+a:hover {
+  color: #d0c9c0;
+  text-decoration: underline;
+  font-size: 1.5rem;
+}
+
+a:active {
+  color: #d0c9c0;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+ol,
+ul {
+  list-style-position: inside;
+}
